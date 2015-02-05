@@ -8,8 +8,8 @@ we focused first is to deploy our project and make it go live. We had a rough ti
 deploying our previous project with [Microsoft Azure](http://azure.microsoft.com/en-us/), so this time we decided to
 deploy our app using [Heroku](https://www.heroku.com/).
 
-Heroku provided us with an extremely useful [tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction). Each steps
-are very short and well explained, and we had a much smoother time with Heroku than
+Heroku provided us with an extremely useful [tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction). Each step
+is very short and well explained, and we had a much smoother time with Heroku than
 we had with Azure. There were couple important things to keep in mind.
 
 ## Make a Procfile (with no extension)
