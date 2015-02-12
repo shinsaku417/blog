@@ -32,6 +32,8 @@ Create a diagram to come up with an algorithm to solve the problem. For this
 problem, you can draw a simple array like [7, 'hi', 5, 7, 5] and determine how
 a program will solve the problem.
 
+![Diagram](../images/toy-problems1.jpg)
+
 ## Look for edge cases
 
 Look for more complicated versions of the problem. Depending on what the interviewer
