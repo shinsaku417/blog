@@ -31,7 +31,7 @@ var htmlGenerator = function(req, res, data) {
 };
 ```
 
-Let's look at each functions that add components to the html string.
+Let's look at each function that adds components to the html string.
 
 ```
 var createHeader = function(host) {
