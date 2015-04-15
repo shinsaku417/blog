@@ -17,11 +17,10 @@ we had with Azure. There were couple important things to keep in mind.
 Our Procfile looked something like this:
 
 ```js
-web: npm install; node server.js
+web: node server.js
 ```
 
-This tells Heroku to run npm install to include all node modules that are needed
-to run the app, and spin up the node server by running node server.js.
+This tells Heroku to spin up a node server by running node server.js.
 
 ## Define environmental variables
 
